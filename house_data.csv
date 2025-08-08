@@ -1,0 +1,11 @@
+City,Location,Bedrooms,Bathrooms,Area_sqft,Year_Built,Price_PKR
+Lahore,DHA Phase 6,5,6,4500,2015,52000000
+Karachi,Gulshan-e-Iqbal,4,4,3000,2010,36000000
+Islamabad,G-11,3,3,2100,2018,30000000
+Rawalpindi,Bahria Town,4,5,3500,2016,41000000
+Multan,Model Town,3,2,2000,2012,25000000
+Lahore,Johar Town,3,3,2200,2014,27000000
+Karachi,North Nazimabad,5,6,4000,2013,40000000
+Islamabad,F-10,4,5,3800,2017,46000000
+Rawalpindi,Saddar,2,2,1800,2008,19000000
+Multan,Wapda Town,4,4,3200,2019,35000000
